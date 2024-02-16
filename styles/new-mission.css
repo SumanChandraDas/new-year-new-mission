@@ -76,3 +76,40 @@ main {
 }
 
 /* 65% section end  */
+/* welcome to party secton start  */
+.welcome-party-section {
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    padding: 126px 126px;
+    margin-top: 120px;
+}
+
+.welcome-party-section-title {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.welcome-party-section-description {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.welcome-party-section button {
+    margin: 48px 32px;
+    border: none;
+    background: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+/* welcome to party section end  */
