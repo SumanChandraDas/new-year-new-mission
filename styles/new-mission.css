@@ -9,6 +9,21 @@ main {
     margin: 0 auto;
 }
 
+.section-title {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.red-color-sub-heading {
+    color: #F00;
+    margin: 0;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
 /* header or banner style  */
 .banner-section {
     background-image: url('../images/Banner Image.png');
@@ -35,3 +50,29 @@ main {
     font-weight: 900;
     margin: 0;
 }
+
+/* banner style end  */
+/* 65% off section start  */
+.off-section-title {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+/* 65% off section end  */
+.off-section .red-color-sub-heading {
+    text-align: center;
+}
+
+.off-section .section-title {
+    text-align: center;
+}
+
+.off-section img {
+    display: block;
+    width: 800px;
+    margin: 48px auto;
+}
+
+/* 65% section end  */
