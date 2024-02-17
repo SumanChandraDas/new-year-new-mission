@@ -209,3 +209,28 @@ main {
 }
 
 /* subscrive section end  */
+/* footer section start  */
+.footer-section {
+    padding: 120px 140px;
+    background: #070211;
+    color: white;
+    margin-top: 120px;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.footer-address-info,
+.footer-copyright-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-icons {
+    margin-top: 48px;
+    margin-bottom: 48px;
+    display: flex;
+    justify-content: center;
+}
+
+/* footer section end  */
