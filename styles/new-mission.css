@@ -146,3 +146,29 @@ main {
 }
 
 /* comming soon section End */
+/* portfolio section start  */
+.portfolio-section {
+    margin-top: 120px;
+}
+
+.portfolio-image-container {
+    margin-top: 48px;
+}
+
+.portfolio-image-row {
+    display: flex;
+    gap: 24px;
+    margin-top: 24px;
+}
+
+.portfolio-image-row img {
+    border-radius: 16px;
+    width: 424px;
+}
+
+.portfolio-image-row :hover {
+    transform: rotate(0.8deg);
+    transition: transrorm, 5s, .9s;
+}
+
+/* portfolio section end  */
